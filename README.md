@@ -14,10 +14,17 @@ We previously looked in precipitation, but in this analysis we be focused in on 
 
 * The biggest difference can be seen in the minimum temperature difference. June's minimum is at 64 degrees, whereas December's minimum is at 56 degrees.
 
+#### June Temperature Statistics
+
 ![This is an image](https://github.com/belennlopezvega/surfs_up/blob/main/images/june_temp.png)
+
+#### December Temperature Statistics
 
 ![This is an image](https://github.com/belennlopezvega/surfs_up/blob/main/images/december_temp.png)
 
 ## Summary 
 
-Altogether, between June and December there aren't extreme differences in temperature. Weather seems to stay pretty leveled which should help us secure the investor. To further give W. Avy supporting evidence of a trusty investment, we can run a query to see humidity levels in June and December to see if that has much of a difference. In addition to that, another insightful query can be wind patterns to see what months are the windiest considering that had a huge impact on how many surfers will be out on average in June and December. 
+Altogether, between June and December there aren't extreme differences in temperature. Weather seems to stay pretty leveled which should help us secure the investor. 
+
+#### Additional Queries
+To further give W. Avy supporting evidence of a trusty investment, we can run a query to see humidity levels in June and December to see if that has much of a difference. In addition to that, another insightful query can be wind patterns to see what months are the windiest considering that had a huge impact on how many surfers will be out on average in June and December. 
